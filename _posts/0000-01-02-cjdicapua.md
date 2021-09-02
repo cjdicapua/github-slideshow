@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+All I have in this world is my balls and my word.
 Use the left arrow to go back!
